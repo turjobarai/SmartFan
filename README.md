@@ -14,6 +14,8 @@
 ⚡ Reliable and responsive performance
 
 
+
+
 🛠️ Tech Stack:
 
 Flutter (Dart) – for cross-platform mobile app
@@ -23,13 +25,19 @@ ESP32 – as the Bluetooth-enabled microcontroller
 Bluetooth Classic / BLE communication
 
 
+
+
 🎯 Use Case:
 
 Perfect for DIY IoT projects, smart lighting systems, and home automation enthusiasts who want to control brightness wirelessly without relying on Wi-Fi or cloud services.
 
+
+
+
 🚀 Status:
 
 Currently released and working. Further improvements like presets, schedules, and voice control may be added in future versions.
+
 
 # Screenshot
 
