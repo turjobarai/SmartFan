@@ -1,0 +1,40 @@
+name: smart_fan
+description: A Smart Fan Controller App
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bluetooth_serial: ^0.4.0
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.3.2
+  font_awesome_flutter: ^10.10.0
+  permission_handler: ^11.3.1
+  flutter_web_bluetooth: ^0.2.0
+  sleek_circular_slider: ^2.0.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+  flutter_lints: ^3.0.0
+
+# App Icon Configuration (Android only)
+flutter_icons:
+  android: true
+  ios: false   # iOS disabled to prevent Windows overwrite error
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon.png
+    - assets/fan.png
