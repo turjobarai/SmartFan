@@ -1,22 +1,18 @@
 # About
-esp32 dimmer.
+
+
+
+
 ✨ Key Features:
-
 📱 User-friendly interface for real-time control
-
 🔗 Bluetooth communication with ESP32
-
 💡 Adjust light intensity smoothly (dimming functionality)
-
 ⚡ Reliable and responsive performance
 
 
 🛠️ Tech Stack:
-
 Flutter (Dart) – for cross-platform mobile app
-
 ESP32 – as the Bluetooth-enabled microcontroller
-
 Bluetooth Classic / BLE communication
 
 
