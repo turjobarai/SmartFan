@@ -41,9 +41,10 @@ Currently released and working. Further improvements like presets, schedules, an
 
 # Requirement component
 1. esp32
+![1000004054](https://github.com/user-attachments/assets/f2262a85-0e0d-46b3-a2bd-e35d9df0da3b)
 2. robodyn ac dimmer
 ![1000004053](https://github.com/user-attachments/assets/837923ba-d772-4689-a9b9-b27a7a327091)
-![1000004054](https://github.com/user-attachments/assets/f2262a85-0e0d-46b3-a2bd-e35d9df0da3b)
+
 
 
 # Step by step guid
