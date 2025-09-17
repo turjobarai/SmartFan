@@ -1,4 +1,4 @@
-# smartfan
+# About
 
 esp32 dimmer.
 
