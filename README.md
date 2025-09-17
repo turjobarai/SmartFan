@@ -1,21 +1,7 @@
 # About
-
 esp32 dimmer.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
+#Screenshot
 
 <img width="1080" height="2400" alt="Screenshot_20250918-013754_SmartFan" src="https://github.com/user-attachments/assets/b3c169a3-f37f-40e1-baa5-499e0b201279" />
 <img width="1080" height="2400" alt="Screenshot_20250918-013612_SmartFan" src="https://github.com/user-attachments/assets/030eab77-df4f-4a1a-9d02-88227bfde661" />
