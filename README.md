@@ -39,6 +39,13 @@ Perfect for DIY IoT projects, smart lighting systems, and home automation enthus
 Currently released and working. Further improvements like presets, schedules, and voice control may be added in future versions.
 
 
+# Requirement component
+1. esp32
+2. robodyn ac dimmer
+![1000004053](https://github.com/user-attachments/assets/837923ba-d772-4689-a9b9-b27a7a327091)
+![1000004054](https://github.com/user-attachments/assets/f2262a85-0e0d-46b3-a2bd-e35d9df0da3b)
+
+
 # Step by step guid
 1. install the app in Release section
 2. upload code in esp32
