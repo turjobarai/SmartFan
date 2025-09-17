@@ -39,7 +39,13 @@ Perfect for DIY IoT projects, smart lighting systems, and home automation enthus
 Currently released and working. Further improvements like presets, schedules, and voice control may be added in future versions.
 
 
-# Screenshot
+# Step by step guid
+1. install the app in Release section
+2. upload code in esp32
+3. connection esp32 and robodyn ac dimmer
+
+
+# App Screenshot
 
 <img width="1080" height="2400" alt="Screenshot_20250918-013754_SmartFan" src="https://github.com/user-attachments/assets/b3c169a3-f37f-40e1-baa5-499e0b201279" />
 <img width="1080" height="2400" alt="Screenshot_20250918-013612_SmartFan" src="https://github.com/user-attachments/assets/030eab77-df4f-4a1a-9d02-88227bfde661" />
